@@ -7,6 +7,9 @@ This application is the colloborative application which involves the developemnt
 
 ## Project View
 
+![Desktop View](https://user-images.githubusercontent.com/74270500/192818811-da6da231-ceb8-435a-9485-159d3787f8ff.png)
+
+
 ## Hosted Practicant Application
 
 https://practicant-main.vercel.app/
