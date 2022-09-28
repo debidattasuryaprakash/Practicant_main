@@ -5,6 +5,8 @@
 
 This application is the colloborative application which involves the developemnt of research papers and guidance by mentors.
 
+## Project View
+
 ## Hosted Practicant Application
 
 https://practicant-main.vercel.app/
