@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74270500/192853627-22ae3dd0-c2db-422b-81f8-d89a8059f8b1.png" width="400" height="160">
+
+
 [Practicant](https://practicant-main.vercel.app/) is an open source project based on the problem solving for research mentors and researchers to make their own portfolio and research papers.
 
 - [Product Documentation](https://github.com/debidattasuryaprakash/Practicant_main/blob/main/README.md)
