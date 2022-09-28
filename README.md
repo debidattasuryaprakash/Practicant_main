@@ -1,6 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74270500/192853627-22ae3dd0-c2db-422b-81f8-d89a8059f8b1.png" width="400" height="160">
 
-
 [Practicant](https://practicant-main.vercel.app/) is an open source project based on the problem solving for research mentors and researchers to make their own portfolio and research papers.
 
 - [Product Documentation](https://github.com/debidattasuryaprakash/Practicant_main/blob/main/README.md)
@@ -11,7 +10,6 @@ This application is the colloborative application which involves the developemnt
 ## Project View
 
 ![Desktop View](https://user-images.githubusercontent.com/74270500/192818811-da6da231-ceb8-435a-9485-159d3787f8ff.png)
-
 
 ## Hosted Practicant Application
 
@@ -38,3 +36,7 @@ cd server
 # To install all the packages for the development phase
 nodemon index.js
 ```
+
+## Feature Requests
+
+[Practicant/Feature-Requests](https://github.com/debidattasuryaprakash/Practicant_main/tree/main/.github/ISSUE_TEMPLATE), want to add a new feature and have your valuable contribution to the project, add your ideas to the project by pulling up a request and mentioning the details for development.
