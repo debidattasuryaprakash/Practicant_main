@@ -43,4 +43,4 @@ nodemon index.js
 
 ## Contributions
 
-Practicant is an open source project and we are very happy to accept community contributions. Please refer to the [Contribution Help](practicant-docs.netlify.app) for more details.
+Practicant is an open source project and we are very happy to accept community contributions. Please refer to the [Contribution Help](https://practicant-docs.netlify.app) for more details.
