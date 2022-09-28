@@ -40,3 +40,7 @@ nodemon index.js
 ## Feature Requests
 
 [Practicant/Feature-Requests](https://github.com/debidattasuryaprakash/Practicant_main/tree/main/.github/ISSUE_TEMPLATE), want to add a new feature and have your valuable contribution to the project, add your ideas to the project by pulling up a request and mentioning the details for development.
+
+## Contributions
+
+Practicant is an open source project and we are very happy to accept community contributions. Please refer to the [Contribution Help](practicant-docs.netlify.app) for more details.
